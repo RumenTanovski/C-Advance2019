@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Lab3PrimaryDiagonal\bin\Debug\netcoreapp2.1\Lab3PrimaryDiagonal.deps.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Lab3PrimaryDiagonal\bin\Debug\netcoreapp2.1\Lab3PrimaryDiagonal.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Lab3PrimaryDiagonal\bin\Debug\netcoreapp2.1\Lab3PrimaryDiagonal.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Lab3PrimaryDiagonal\bin\Debug\netcoreapp2.1\Lab3PrimaryDiagonal.dll
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Lab3PrimaryDiagonal\bin\Debug\netcoreapp2.1\Lab3PrimaryDiagonal.pdb
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Lab3PrimaryDiagonal\obj\Debug\netcoreapp2.1\Lab3PrimaryDiagonal.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Lab3PrimaryDiagonal\obj\Debug\netcoreapp2.1\Lab3PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Lab3PrimaryDiagonal\obj\Debug\netcoreapp2.1\Lab3PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Lab3PrimaryDiagonal\obj\Debug\netcoreapp2.1\Lab3PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Lab3PrimaryDiagonal\obj\Debug\netcoreapp2.1\Lab3PrimaryDiagonal.dll
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Lab3PrimaryDiagonal\obj\Debug\netcoreapp2.1\Lab3PrimaryDiagonal.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\JaggedArray\bin\Debug\netcoreapp2.1\JaggedArray.deps.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\JaggedArray\bin\Debug\netcoreapp2.1\JaggedArray.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\JaggedArray\bin\Debug\netcoreapp2.1\JaggedArray.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\JaggedArray\bin\Debug\netcoreapp2.1\JaggedArray.dll
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\JaggedArray\bin\Debug\netcoreapp2.1\JaggedArray.pdb
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\JaggedArray\obj\Debug\netcoreapp2.1\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\JaggedArray\obj\Debug\netcoreapp2.1\JaggedArray.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\JaggedArray\obj\Debug\netcoreapp2.1\JaggedArray.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\JaggedArray\obj\Debug\netcoreapp2.1\JaggedArray.dll
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\JaggedArray\obj\Debug\netcoreapp2.1\JaggedArray.pdb
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\JaggedArray\obj\Debug\netcoreapp2.1\JaggedArray.csprojResolveAssemblyReference.cache

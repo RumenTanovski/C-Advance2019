@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem2_2x2_SquaresInMatrix\bin\Debug\netcoreapp2.1\Problem2_2x2_SquaresInMatrix.deps.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem2_2x2_SquaresInMatrix\bin\Debug\netcoreapp2.1\Problem2_2x2_SquaresInMatrix.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem2_2x2_SquaresInMatrix\bin\Debug\netcoreapp2.1\Problem2_2x2_SquaresInMatrix.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem2_2x2_SquaresInMatrix\bin\Debug\netcoreapp2.1\Problem2_2x2_SquaresInMatrix.dll
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem2_2x2_SquaresInMatrix\bin\Debug\netcoreapp2.1\Problem2_2x2_SquaresInMatrix.pdb
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem2_2x2_SquaresInMatrix\obj\Debug\netcoreapp2.1\Problem2_2x2_SquaresInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem2_2x2_SquaresInMatrix\obj\Debug\netcoreapp2.1\Problem2_2x2_SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem2_2x2_SquaresInMatrix\obj\Debug\netcoreapp2.1\Problem2_2x2_SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem2_2x2_SquaresInMatrix\obj\Debug\netcoreapp2.1\Problem2_2x2_SquaresInMatrix.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem2_2x2_SquaresInMatrix\obj\Debug\netcoreapp2.1\Problem2_2x2_SquaresInMatrix.dll
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem2_2x2_SquaresInMatrix\obj\Debug\netcoreapp2.1\Problem2_2x2_SquaresInMatrix.pdb

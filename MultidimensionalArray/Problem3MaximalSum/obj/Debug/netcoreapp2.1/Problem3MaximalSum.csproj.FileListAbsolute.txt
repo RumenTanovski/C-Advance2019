@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem3MaximalSum\bin\Debug\netcoreapp2.1\Problem3MaximalSum.deps.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem3MaximalSum\bin\Debug\netcoreapp2.1\Problem3MaximalSum.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem3MaximalSum\bin\Debug\netcoreapp2.1\Problem3MaximalSum.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem3MaximalSum\bin\Debug\netcoreapp2.1\Problem3MaximalSum.dll
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem3MaximalSum\bin\Debug\netcoreapp2.1\Problem3MaximalSum.pdb
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem3MaximalSum\obj\Debug\netcoreapp2.1\Problem3MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem3MaximalSum\obj\Debug\netcoreapp2.1\Problem3MaximalSum.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem3MaximalSum\obj\Debug\netcoreapp2.1\Problem3MaximalSum.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem3MaximalSum\obj\Debug\netcoreapp2.1\Problem3MaximalSum.dll
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem3MaximalSum\obj\Debug\netcoreapp2.1\Problem3MaximalSum.pdb
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem3MaximalSum\obj\Debug\netcoreapp2.1\Problem3MaximalSum.csprojResolveAssemblyReference.cache

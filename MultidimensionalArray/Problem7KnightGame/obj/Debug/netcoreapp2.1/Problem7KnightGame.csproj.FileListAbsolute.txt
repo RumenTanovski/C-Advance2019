@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem7KnightGame\bin\Debug\netcoreapp2.1\Problem7KnightGame.deps.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem7KnightGame\bin\Debug\netcoreapp2.1\Problem7KnightGame.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem7KnightGame\bin\Debug\netcoreapp2.1\Problem7KnightGame.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem7KnightGame\bin\Debug\netcoreapp2.1\Problem7KnightGame.dll
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem7KnightGame\bin\Debug\netcoreapp2.1\Problem7KnightGame.pdb
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem7KnightGame\obj\Debug\netcoreapp2.1\Problem7KnightGame.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem7KnightGame\obj\Debug\netcoreapp2.1\Problem7KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem7KnightGame\obj\Debug\netcoreapp2.1\Problem7KnightGame.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem7KnightGame\obj\Debug\netcoreapp2.1\Problem7KnightGame.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem7KnightGame\obj\Debug\netcoreapp2.1\Problem7KnightGame.dll
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem7KnightGame\obj\Debug\netcoreapp2.1\Problem7KnightGame.pdb

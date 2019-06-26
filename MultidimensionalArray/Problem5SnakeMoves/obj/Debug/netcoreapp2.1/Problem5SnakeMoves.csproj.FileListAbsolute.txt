@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem5SnakeMoves\bin\Debug\netcoreapp2.1\Problem5SnakeMoves.deps.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem5SnakeMoves\bin\Debug\netcoreapp2.1\Problem5SnakeMoves.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem5SnakeMoves\bin\Debug\netcoreapp2.1\Problem5SnakeMoves.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem5SnakeMoves\bin\Debug\netcoreapp2.1\Problem5SnakeMoves.dll
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem5SnakeMoves\bin\Debug\netcoreapp2.1\Problem5SnakeMoves.pdb
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem5SnakeMoves\obj\Debug\netcoreapp2.1\Problem5SnakeMoves.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem5SnakeMoves\obj\Debug\netcoreapp2.1\Problem5SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem5SnakeMoves\obj\Debug\netcoreapp2.1\Problem5SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem5SnakeMoves\obj\Debug\netcoreapp2.1\Problem5SnakeMoves.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem5SnakeMoves\obj\Debug\netcoreapp2.1\Problem5SnakeMoves.dll
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem5SnakeMoves\obj\Debug\netcoreapp2.1\Problem5SnakeMoves.pdb

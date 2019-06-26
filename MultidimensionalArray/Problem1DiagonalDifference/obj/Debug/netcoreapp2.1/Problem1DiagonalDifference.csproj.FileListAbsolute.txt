@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem1DiagonalDifference\bin\Debug\netcoreapp2.1\Problem1DiagonalDifference.deps.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem1DiagonalDifference\bin\Debug\netcoreapp2.1\Problem1DiagonalDifference.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem1DiagonalDifference\bin\Debug\netcoreapp2.1\Problem1DiagonalDifference.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem1DiagonalDifference\bin\Debug\netcoreapp2.1\Problem1DiagonalDifference.dll
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem1DiagonalDifference\bin\Debug\netcoreapp2.1\Problem1DiagonalDifference.pdb
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem1DiagonalDifference\obj\Debug\netcoreapp2.1\Problem1DiagonalDifference.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem1DiagonalDifference\obj\Debug\netcoreapp2.1\Problem1DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem1DiagonalDifference\obj\Debug\netcoreapp2.1\Problem1DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem1DiagonalDifference\obj\Debug\netcoreapp2.1\Problem1DiagonalDifference.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem1DiagonalDifference\obj\Debug\netcoreapp2.1\Problem1DiagonalDifference.dll
+C:\Users\HP\Documents\2019\C#Advance\MultidimensionalArray\Problem1DiagonalDifference\obj\Debug\netcoreapp2.1\Problem1DiagonalDifference.pdb
