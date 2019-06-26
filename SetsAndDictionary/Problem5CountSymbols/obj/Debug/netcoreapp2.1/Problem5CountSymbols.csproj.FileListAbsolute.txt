@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem5CountSymbols\bin\Debug\netcoreapp2.1\Problem5CountSymbols.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem5CountSymbols\bin\Debug\netcoreapp2.1\Problem5CountSymbols.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem5CountSymbols\bin\Debug\netcoreapp2.1\Problem5CountSymbols.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem5CountSymbols\bin\Debug\netcoreapp2.1\Problem5CountSymbols.dll
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem5CountSymbols\bin\Debug\netcoreapp2.1\Problem5CountSymbols.pdb
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem5CountSymbols\obj\Debug\netcoreapp2.1\Problem5CountSymbols.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem5CountSymbols\obj\Debug\netcoreapp2.1\Problem5CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem5CountSymbols\obj\Debug\netcoreapp2.1\Problem5CountSymbols.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem5CountSymbols\obj\Debug\netcoreapp2.1\Problem5CountSymbols.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem5CountSymbols\obj\Debug\netcoreapp2.1\Problem5CountSymbols.dll
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem5CountSymbols\obj\Debug\netcoreapp2.1\Problem5CountSymbols.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SteakQueue\bin\Debug\netcoreapp2.1\SteakQueue.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SteakQueue\bin\Debug\netcoreapp2.1\SteakQueue.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SteakQueue\bin\Debug\netcoreapp2.1\SteakQueue.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SteakQueue\bin\Debug\netcoreapp2.1\SteakQueue.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SteakQueue\bin\Debug\netcoreapp2.1\SteakQueue.pdb
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SteakQueue\obj\Debug\netcoreapp2.1\SteakQueue.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SteakQueue\obj\Debug\netcoreapp2.1\SteakQueue.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SteakQueue\obj\Debug\netcoreapp2.1\SteakQueue.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SteakQueue\obj\Debug\netcoreapp2.1\SteakQueue.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SteakQueue\obj\Debug\netcoreapp2.1\SteakQueue.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SteakQueue\obj\Debug\netcoreapp2.1\SteakQueue.pdb

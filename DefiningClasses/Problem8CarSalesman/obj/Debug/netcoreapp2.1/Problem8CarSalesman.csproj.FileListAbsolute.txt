@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem8CarSalesman\bin\Debug\netcoreapp2.1\Problem8CarSalesman.deps.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem8CarSalesman\bin\Debug\netcoreapp2.1\Problem8CarSalesman.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem8CarSalesman\bin\Debug\netcoreapp2.1\Problem8CarSalesman.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem8CarSalesman\bin\Debug\netcoreapp2.1\Problem8CarSalesman.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem8CarSalesman\bin\Debug\netcoreapp2.1\Problem8CarSalesman.pdb
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem8CarSalesman\obj\Debug\netcoreapp2.1\Problem8CarSalesman.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem8CarSalesman\obj\Debug\netcoreapp2.1\Problem8CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem8CarSalesman\obj\Debug\netcoreapp2.1\Problem8CarSalesman.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem8CarSalesman\obj\Debug\netcoreapp2.1\Problem8CarSalesman.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem8CarSalesman\obj\Debug\netcoreapp2.1\Problem8CarSalesman.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem8CarSalesman\obj\Debug\netcoreapp2.1\Problem8CarSalesman.pdb

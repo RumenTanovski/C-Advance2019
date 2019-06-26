@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem10Crossroads\bin\Debug\netcoreapp2.1\Problem10Crossroads.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem10Crossroads\bin\Debug\netcoreapp2.1\Problem10Crossroads.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem10Crossroads\bin\Debug\netcoreapp2.1\Problem10Crossroads.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem10Crossroads\bin\Debug\netcoreapp2.1\Problem10Crossroads.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem10Crossroads\bin\Debug\netcoreapp2.1\Problem10Crossroads.pdb
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem10Crossroads\obj\Debug\netcoreapp2.1\Problem10Crossroads.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem10Crossroads\obj\Debug\netcoreapp2.1\Problem10Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem10Crossroads\obj\Debug\netcoreapp2.1\Problem10Crossroads.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem10Crossroads\obj\Debug\netcoreapp2.1\Problem10Crossroads.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem10Crossroads\obj\Debug\netcoreapp2.1\Problem10Crossroads.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem10Crossroads\obj\Debug\netcoreapp2.1\Problem10Crossroads.pdb

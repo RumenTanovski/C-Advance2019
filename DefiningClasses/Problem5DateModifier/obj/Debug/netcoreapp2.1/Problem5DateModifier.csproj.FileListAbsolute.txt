@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem5DateModifier\bin\Debug\netcoreapp2.1\Problem5DateModifier.deps.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem5DateModifier\bin\Debug\netcoreapp2.1\Problem5DateModifier.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem5DateModifier\bin\Debug\netcoreapp2.1\Problem5DateModifier.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem5DateModifier\bin\Debug\netcoreapp2.1\Problem5DateModifier.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem5DateModifier\bin\Debug\netcoreapp2.1\Problem5DateModifier.pdb
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem5DateModifier\obj\Debug\netcoreapp2.1\Problem5DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem5DateModifier\obj\Debug\netcoreapp2.1\Problem5DateModifier.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem5DateModifier\obj\Debug\netcoreapp2.1\Problem5DateModifier.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem5DateModifier\obj\Debug\netcoreapp2.1\Problem5DateModifier.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem5DateModifier\obj\Debug\netcoreapp2.1\Problem5DateModifier.pdb
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem5DateModifier\obj\Debug\netcoreapp2.1\Problem5DateModifier.csprojResolveAssemblyReference.cache

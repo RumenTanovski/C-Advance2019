@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab2LibraryIterator\bin\Debug\netcoreapp2.1\Lab2LibraryIterator.deps.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab2LibraryIterator\bin\Debug\netcoreapp2.1\Lab2LibraryIterator.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab2LibraryIterator\bin\Debug\netcoreapp2.1\Lab2LibraryIterator.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab2LibraryIterator\bin\Debug\netcoreapp2.1\Lab2LibraryIterator.dll
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab2LibraryIterator\bin\Debug\netcoreapp2.1\Lab2LibraryIterator.pdb
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab2LibraryIterator\obj\Debug\netcoreapp2.1\Lab2LibraryIterator.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab2LibraryIterator\obj\Debug\netcoreapp2.1\Lab2LibraryIterator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab2LibraryIterator\obj\Debug\netcoreapp2.1\Lab2LibraryIterator.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab2LibraryIterator\obj\Debug\netcoreapp2.1\Lab2LibraryIterator.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab2LibraryIterator\obj\Debug\netcoreapp2.1\Lab2LibraryIterator.dll
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab2LibraryIterator\obj\Debug\netcoreapp2.1\Lab2LibraryIterator.pdb

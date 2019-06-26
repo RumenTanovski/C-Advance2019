@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem7RawData\bin\Debug\netcoreapp2.1\Problem7RawData.deps.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem7RawData\bin\Debug\netcoreapp2.1\Problem7RawData.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem7RawData\bin\Debug\netcoreapp2.1\Problem7RawData.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem7RawData\bin\Debug\netcoreapp2.1\Problem7RawData.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem7RawData\bin\Debug\netcoreapp2.1\Problem7RawData.pdb
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem7RawData\obj\Debug\netcoreapp2.1\Problem7RawData.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem7RawData\obj\Debug\netcoreapp2.1\Problem7RawData.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem7RawData\obj\Debug\netcoreapp2.1\Problem7RawData.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem7RawData\obj\Debug\netcoreapp2.1\Problem7RawData.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem7RawData\obj\Debug\netcoreapp2.1\Problem7RawData.pdb
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem7RawData\obj\Debug\netcoreapp2.1\Problem7RawData.csprojResolveAssemblyReference.cache

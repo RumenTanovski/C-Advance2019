@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem6ZipAndExtract\bin\Debug\netcoreapp2.1\Problem6ZipAndExtract.deps.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem6ZipAndExtract\bin\Debug\netcoreapp2.1\Problem6ZipAndExtract.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem6ZipAndExtract\bin\Debug\netcoreapp2.1\Problem6ZipAndExtract.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem6ZipAndExtract\bin\Debug\netcoreapp2.1\Problem6ZipAndExtract.dll
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem6ZipAndExtract\bin\Debug\netcoreapp2.1\Problem6ZipAndExtract.pdb
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem6ZipAndExtract\obj\Debug\netcoreapp2.1\Problem6ZipAndExtract.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem6ZipAndExtract\obj\Debug\netcoreapp2.1\Problem6ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem6ZipAndExtract\obj\Debug\netcoreapp2.1\Problem6ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem6ZipAndExtract\obj\Debug\netcoreapp2.1\Problem6ZipAndExtract.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem6ZipAndExtract\obj\Debug\netcoreapp2.1\Problem6ZipAndExtract.dll
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem6ZipAndExtract\obj\Debug\netcoreapp2.1\Problem6ZipAndExtract.pdb

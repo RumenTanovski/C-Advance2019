@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab4BookComparator\bin\Debug\netcoreapp2.1\Lab4BookComparator.deps.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab4BookComparator\bin\Debug\netcoreapp2.1\Lab4BookComparator.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab4BookComparator\bin\Debug\netcoreapp2.1\Lab4BookComparator.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab4BookComparator\bin\Debug\netcoreapp2.1\Lab4BookComparator.dll
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab4BookComparator\bin\Debug\netcoreapp2.1\Lab4BookComparator.pdb
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab4BookComparator\obj\Debug\netcoreapp2.1\Lab4BookComparator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab4BookComparator\obj\Debug\netcoreapp2.1\Lab4BookComparator.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab4BookComparator\obj\Debug\netcoreapp2.1\Lab4BookComparator.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab4BookComparator\obj\Debug\netcoreapp2.1\Lab4BookComparator.dll
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab4BookComparator\obj\Debug\netcoreapp2.1\Lab4BookComparator.pdb
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab4BookComparator\obj\Debug\netcoreapp2.1\Lab4BookComparator.csprojResolveAssemblyReference.cache

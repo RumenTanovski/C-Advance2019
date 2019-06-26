@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab4CarEngineAndTires\bin\Debug\netcoreapp2.1\Lab4CarEngineAndTires.deps.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab4CarEngineAndTires\bin\Debug\netcoreapp2.1\Lab4CarEngineAndTires.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab4CarEngineAndTires\bin\Debug\netcoreapp2.1\Lab4CarEngineAndTires.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab4CarEngineAndTires\bin\Debug\netcoreapp2.1\Lab4CarEngineAndTires.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab4CarEngineAndTires\bin\Debug\netcoreapp2.1\Lab4CarEngineAndTires.pdb
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab4CarEngineAndTires\obj\Debug\netcoreapp2.1\Lab4CarEngineAndTires.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab4CarEngineAndTires\obj\Debug\netcoreapp2.1\Lab4CarEngineAndTires.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab4CarEngineAndTires\obj\Debug\netcoreapp2.1\Lab4CarEngineAndTires.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab4CarEngineAndTires\obj\Debug\netcoreapp2.1\Lab4CarEngineAndTires.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab4CarEngineAndTires\obj\Debug\netcoreapp2.1\Lab4CarEngineAndTires.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab4CarEngineAndTires\obj\Debug\netcoreapp2.1\Lab4CarEngineAndTires.pdb

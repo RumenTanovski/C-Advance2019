@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem4OpinionPoll\bin\Debug\netcoreapp2.1\Problem4OpinionPoll.deps.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem4OpinionPoll\bin\Debug\netcoreapp2.1\Problem4OpinionPoll.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem4OpinionPoll\bin\Debug\netcoreapp2.1\Problem4OpinionPoll.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem4OpinionPoll\bin\Debug\netcoreapp2.1\Problem4OpinionPoll.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem4OpinionPoll\bin\Debug\netcoreapp2.1\Problem4OpinionPoll.pdb
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem4OpinionPoll\obj\Debug\netcoreapp2.1\Problem4OpinionPoll.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem4OpinionPoll\obj\Debug\netcoreapp2.1\Problem4OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem4OpinionPoll\obj\Debug\netcoreapp2.1\Problem4OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem4OpinionPoll\obj\Debug\netcoreapp2.1\Problem4OpinionPoll.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem4OpinionPoll\obj\Debug\netcoreapp2.1\Problem4OpinionPoll.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem4OpinionPoll\obj\Debug\netcoreapp2.1\Problem4OpinionPoll.pdb

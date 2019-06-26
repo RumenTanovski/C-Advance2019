@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab1\bin\Debug\netcoreapp2.1\Lab1.deps.json
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab1\bin\Debug\netcoreapp2.1\Lab1.dll
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab1\bin\Debug\netcoreapp2.1\Lab1.pdb
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab1\obj\Debug\netcoreapp2.1\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab1\obj\Debug\netcoreapp2.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab1\obj\Debug\netcoreapp2.1\Lab1.dll
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab1\obj\Debug\netcoreapp2.1\Lab1.pdb

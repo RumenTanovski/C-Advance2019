@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem01ListyIterator\bin\Debug\netcoreapp2.1\Problem01ListyIterator.deps.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem01ListyIterator\bin\Debug\netcoreapp2.1\Problem01ListyIterator.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem01ListyIterator\bin\Debug\netcoreapp2.1\Problem01ListyIterator.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem01ListyIterator\bin\Debug\netcoreapp2.1\Problem01ListyIterator.dll
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem01ListyIterator\bin\Debug\netcoreapp2.1\Problem01ListyIterator.pdb
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem01ListyIterator\obj\Debug\netcoreapp2.1\Problem01ListyIterator.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem01ListyIterator\obj\Debug\netcoreapp2.1\Problem01ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem01ListyIterator\obj\Debug\netcoreapp2.1\Problem01ListyIterator.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem01ListyIterator\obj\Debug\netcoreapp2.1\Problem01ListyIterator.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem01ListyIterator\obj\Debug\netcoreapp2.1\Problem01ListyIterator.dll
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem01ListyIterator\obj\Debug\netcoreapp2.1\Problem01ListyIterator.pdb

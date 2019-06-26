@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\MatchingBrakets\bin\Debug\netcoreapp2.1\MatchingBrakets.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\MatchingBrakets\bin\Debug\netcoreapp2.1\MatchingBrakets.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\MatchingBrakets\bin\Debug\netcoreapp2.1\MatchingBrakets.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\MatchingBrakets\bin\Debug\netcoreapp2.1\MatchingBrakets.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\MatchingBrakets\bin\Debug\netcoreapp2.1\MatchingBrakets.pdb
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\MatchingBrakets\obj\Debug\netcoreapp2.1\MatchingBrakets.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\MatchingBrakets\obj\Debug\netcoreapp2.1\MatchingBrakets.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\MatchingBrakets\obj\Debug\netcoreapp2.1\MatchingBrakets.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\MatchingBrakets\obj\Debug\netcoreapp2.1\MatchingBrakets.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\MatchingBrakets\obj\Debug\netcoreapp2.1\MatchingBrakets.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\MatchingBrakets\obj\Debug\netcoreapp2.1\MatchingBrakets.pdb

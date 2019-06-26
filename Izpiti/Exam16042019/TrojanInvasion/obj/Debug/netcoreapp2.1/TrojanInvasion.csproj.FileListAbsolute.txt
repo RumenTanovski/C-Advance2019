@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam\TrojanInvasion\bin\Debug\netcoreapp2.1\TrojanInvasion.deps.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam\TrojanInvasion\bin\Debug\netcoreapp2.1\TrojanInvasion.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam\TrojanInvasion\bin\Debug\netcoreapp2.1\TrojanInvasion.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam\TrojanInvasion\bin\Debug\netcoreapp2.1\TrojanInvasion.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam\TrojanInvasion\bin\Debug\netcoreapp2.1\TrojanInvasion.pdb
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam\TrojanInvasion\obj\Debug\netcoreapp2.1\TrojanInvasion.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam\TrojanInvasion\obj\Debug\netcoreapp2.1\TrojanInvasion.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam\TrojanInvasion\obj\Debug\netcoreapp2.1\TrojanInvasion.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam\TrojanInvasion\obj\Debug\netcoreapp2.1\TrojanInvasion.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam\TrojanInvasion\obj\Debug\netcoreapp2.1\TrojanInvasion.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam\TrojanInvasion\obj\Debug\netcoreapp2.1\TrojanInvasion.pdb

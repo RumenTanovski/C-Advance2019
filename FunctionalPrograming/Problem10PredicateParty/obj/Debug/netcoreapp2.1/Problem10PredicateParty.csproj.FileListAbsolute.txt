@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem10PredicateParty\bin\Debug\netcoreapp2.1\Problem10PredicateParty.deps.json
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem10PredicateParty\bin\Debug\netcoreapp2.1\Problem10PredicateParty.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem10PredicateParty\bin\Debug\netcoreapp2.1\Problem10PredicateParty.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem10PredicateParty\bin\Debug\netcoreapp2.1\Problem10PredicateParty.dll
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem10PredicateParty\bin\Debug\netcoreapp2.1\Problem10PredicateParty.pdb
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem10PredicateParty\obj\Debug\netcoreapp2.1\Problem10PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem10PredicateParty\obj\Debug\netcoreapp2.1\Problem10PredicateParty.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem10PredicateParty\obj\Debug\netcoreapp2.1\Problem10PredicateParty.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem10PredicateParty\obj\Debug\netcoreapp2.1\Problem10PredicateParty.dll
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem10PredicateParty\obj\Debug\netcoreapp2.1\Problem10PredicateParty.pdb

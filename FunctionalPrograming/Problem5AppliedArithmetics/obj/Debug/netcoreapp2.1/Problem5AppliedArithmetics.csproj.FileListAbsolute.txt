@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem5AppliedArithmetics\bin\Debug\netcoreapp2.1\Problem5AppliedArithmetics.deps.json
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem5AppliedArithmetics\bin\Debug\netcoreapp2.1\Problem5AppliedArithmetics.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem5AppliedArithmetics\bin\Debug\netcoreapp2.1\Problem5AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem5AppliedArithmetics\bin\Debug\netcoreapp2.1\Problem5AppliedArithmetics.dll
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem5AppliedArithmetics\bin\Debug\netcoreapp2.1\Problem5AppliedArithmetics.pdb
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem5AppliedArithmetics\obj\Debug\netcoreapp2.1\Problem5AppliedArithmetics.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem5AppliedArithmetics\obj\Debug\netcoreapp2.1\Problem5AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem5AppliedArithmetics\obj\Debug\netcoreapp2.1\Problem5AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem5AppliedArithmetics\obj\Debug\netcoreapp2.1\Problem5AppliedArithmetics.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem5AppliedArithmetics\obj\Debug\netcoreapp2.1\Problem5AppliedArithmetics.dll
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Problem5AppliedArithmetics\obj\Debug\netcoreapp2.1\Problem5AppliedArithmetics.pdb

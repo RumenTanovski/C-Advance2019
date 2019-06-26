@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem2LineNumbers\bin\Debug\netcoreapp2.1\Problem2LineNumbers.deps.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem2LineNumbers\bin\Debug\netcoreapp2.1\Problem2LineNumbers.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem2LineNumbers\bin\Debug\netcoreapp2.1\Problem2LineNumbers.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem2LineNumbers\bin\Debug\netcoreapp2.1\Problem2LineNumbers.dll
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem2LineNumbers\bin\Debug\netcoreapp2.1\Problem2LineNumbers.pdb
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem2LineNumbers\obj\Debug\netcoreapp2.1\Problem2LineNumbers.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem2LineNumbers\obj\Debug\netcoreapp2.1\Problem2LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem2LineNumbers\obj\Debug\netcoreapp2.1\Problem2LineNumbers.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem2LineNumbers\obj\Debug\netcoreapp2.1\Problem2LineNumbers.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem2LineNumbers\obj\Debug\netcoreapp2.1\Problem2LineNumbers.dll
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem2LineNumbers\obj\Debug\netcoreapp2.1\Problem2LineNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem03Stack\bin\Debug\netcoreapp2.1\Problem03Stack.deps.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem03Stack\bin\Debug\netcoreapp2.1\Problem03Stack.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem03Stack\bin\Debug\netcoreapp2.1\Problem03Stack.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem03Stack\bin\Debug\netcoreapp2.1\Problem03Stack.dll
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem03Stack\bin\Debug\netcoreapp2.1\Problem03Stack.pdb
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem03Stack\obj\Debug\netcoreapp2.1\Problem03Stack.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem03Stack\obj\Debug\netcoreapp2.1\Problem03Stack.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem03Stack\obj\Debug\netcoreapp2.1\Problem03Stack.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem03Stack\obj\Debug\netcoreapp2.1\Problem03Stack.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem03Stack\obj\Debug\netcoreapp2.1\Problem03Stack.dll
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem03Stack\obj\Debug\netcoreapp2.1\Problem03Stack.pdb

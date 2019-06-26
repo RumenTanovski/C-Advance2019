@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp2.1\CarManufacturer.deps.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp2.1\CarManufacturer.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp2.1\CarManufacturer.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp2.1\CarManufacturer.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp2.1\CarManufacturer.pdb
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab2GenericArrayCreator\bin\Debug\netcoreapp2.1\Lab2GenericArrayCreator.deps.json
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab2GenericArrayCreator\bin\Debug\netcoreapp2.1\Lab2GenericArrayCreator.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab2GenericArrayCreator\bin\Debug\netcoreapp2.1\Lab2GenericArrayCreator.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab2GenericArrayCreator\bin\Debug\netcoreapp2.1\Lab2GenericArrayCreator.dll
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab2GenericArrayCreator\bin\Debug\netcoreapp2.1\Lab2GenericArrayCreator.pdb
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab2GenericArrayCreator\obj\Debug\netcoreapp2.1\Lab2GenericArrayCreator.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab2GenericArrayCreator\obj\Debug\netcoreapp2.1\Lab2GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab2GenericArrayCreator\obj\Debug\netcoreapp2.1\Lab2GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab2GenericArrayCreator\obj\Debug\netcoreapp2.1\Lab2GenericArrayCreator.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab2GenericArrayCreator\obj\Debug\netcoreapp2.1\Lab2GenericArrayCreator.dll
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab2GenericArrayCreator\obj\Debug\netcoreapp2.1\Lab2GenericArrayCreator.pdb

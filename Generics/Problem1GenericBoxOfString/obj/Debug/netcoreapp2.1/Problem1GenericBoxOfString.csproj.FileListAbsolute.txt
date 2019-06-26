@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem1GenericBoxOfString\bin\Debug\netcoreapp2.1\Problem1GenericBoxOfString.deps.json
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem1GenericBoxOfString\bin\Debug\netcoreapp2.1\Problem1GenericBoxOfString.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem1GenericBoxOfString\bin\Debug\netcoreapp2.1\Problem1GenericBoxOfString.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem1GenericBoxOfString\bin\Debug\netcoreapp2.1\Problem1GenericBoxOfString.dll
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem1GenericBoxOfString\bin\Debug\netcoreapp2.1\Problem1GenericBoxOfString.pdb
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem1GenericBoxOfString\obj\Debug\netcoreapp2.1\Problem1GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem1GenericBoxOfString\obj\Debug\netcoreapp2.1\Problem1GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem1GenericBoxOfString\obj\Debug\netcoreapp2.1\Problem1GenericBoxOfString.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem1GenericBoxOfString\obj\Debug\netcoreapp2.1\Problem1GenericBoxOfString.dll
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem1GenericBoxOfString\obj\Debug\netcoreapp2.1\Problem1GenericBoxOfString.pdb
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem1GenericBoxOfString\obj\Debug\netcoreapp2.1\Problem1GenericBoxOfString.csprojResolveAssemblyReference.cache

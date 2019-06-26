@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam24022019\Problem01ClubParty\bin\Debug\netcoreapp2.1\Problem01ClubParty.deps.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam24022019\Problem01ClubParty\bin\Debug\netcoreapp2.1\Problem01ClubParty.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam24022019\Problem01ClubParty\bin\Debug\netcoreapp2.1\Problem01ClubParty.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam24022019\Problem01ClubParty\bin\Debug\netcoreapp2.1\Problem01ClubParty.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam24022019\Problem01ClubParty\bin\Debug\netcoreapp2.1\Problem01ClubParty.pdb
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam24022019\Problem01ClubParty\obj\Debug\netcoreapp2.1\Problem01ClubParty.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam24022019\Problem01ClubParty\obj\Debug\netcoreapp2.1\Problem01ClubParty.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam24022019\Problem01ClubParty\obj\Debug\netcoreapp2.1\Problem01ClubParty.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam24022019\Problem01ClubParty\obj\Debug\netcoreapp2.1\Problem01ClubParty.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam24022019\Problem01ClubParty\obj\Debug\netcoreapp2.1\Problem01ClubParty.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\Exam24022019\Problem01ClubParty\obj\Debug\netcoreapp2.1\Problem01ClubParty.pdb

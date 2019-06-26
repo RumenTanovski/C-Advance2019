@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem2GenericBoxOfInteger\bin\Debug\netcoreapp2.1\Problem2GenericBoxOfInteger.deps.json
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem2GenericBoxOfInteger\bin\Debug\netcoreapp2.1\Problem2GenericBoxOfInteger.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem2GenericBoxOfInteger\bin\Debug\netcoreapp2.1\Problem2GenericBoxOfInteger.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem2GenericBoxOfInteger\bin\Debug\netcoreapp2.1\Problem2GenericBoxOfInteger.dll
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem2GenericBoxOfInteger\bin\Debug\netcoreapp2.1\Problem2GenericBoxOfInteger.pdb
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem2GenericBoxOfInteger\obj\Debug\netcoreapp2.1\Problem2GenericBoxOfInteger.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem2GenericBoxOfInteger\obj\Debug\netcoreapp2.1\Problem2GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem2GenericBoxOfInteger\obj\Debug\netcoreapp2.1\Problem2GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem2GenericBoxOfInteger\obj\Debug\netcoreapp2.1\Problem2GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem2GenericBoxOfInteger\obj\Debug\netcoreapp2.1\Problem2GenericBoxOfInteger.dll
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem2GenericBoxOfInteger\obj\Debug\netcoreapp2.1\Problem2GenericBoxOfInteger.pdb

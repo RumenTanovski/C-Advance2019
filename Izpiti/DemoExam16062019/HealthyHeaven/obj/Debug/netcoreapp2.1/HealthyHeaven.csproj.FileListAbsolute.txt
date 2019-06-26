@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.deps.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.pdb
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.pdb

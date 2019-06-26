@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab4AddVAT\bin\Debug\netcoreapp2.1\Lab4AddVAT.deps.json
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab4AddVAT\bin\Debug\netcoreapp2.1\Lab4AddVAT.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab4AddVAT\bin\Debug\netcoreapp2.1\Lab4AddVAT.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab4AddVAT\bin\Debug\netcoreapp2.1\Lab4AddVAT.dll
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab4AddVAT\bin\Debug\netcoreapp2.1\Lab4AddVAT.pdb
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab4AddVAT\obj\Debug\netcoreapp2.1\Lab4AddVAT.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab4AddVAT\obj\Debug\netcoreapp2.1\Lab4AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab4AddVAT\obj\Debug\netcoreapp2.1\Lab4AddVAT.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab4AddVAT\obj\Debug\netcoreapp2.1\Lab4AddVAT.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab4AddVAT\obj\Debug\netcoreapp2.1\Lab4AddVAT.dll
+C:\Users\HP\Documents\2019\C#Advance\FunctionalPrograming\Lab4AddVAT\obj\Debug\netcoreapp2.1\Lab4AddVAT.pdb

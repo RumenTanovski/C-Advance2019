@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\11. CSharp-Advanced-Exam-Preparation-Solution\ClubParty\bin\Debug\netcoreapp2.1\ClubParty.deps.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\11. CSharp-Advanced-Exam-Preparation-Solution\ClubParty\bin\Debug\netcoreapp2.1\ClubParty.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\11. CSharp-Advanced-Exam-Preparation-Solution\ClubParty\bin\Debug\netcoreapp2.1\ClubParty.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\11. CSharp-Advanced-Exam-Preparation-Solution\ClubParty\bin\Debug\netcoreapp2.1\ClubParty.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\11. CSharp-Advanced-Exam-Preparation-Solution\ClubParty\bin\Debug\netcoreapp2.1\ClubParty.pdb
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\11. CSharp-Advanced-Exam-Preparation-Solution\ClubParty\obj\Debug\netcoreapp2.1\ClubParty.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\11. CSharp-Advanced-Exam-Preparation-Solution\ClubParty\obj\Debug\netcoreapp2.1\ClubParty.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\11. CSharp-Advanced-Exam-Preparation-Solution\ClubParty\obj\Debug\netcoreapp2.1\ClubParty.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\11. CSharp-Advanced-Exam-Preparation-Solution\ClubParty\obj\Debug\netcoreapp2.1\ClubParty.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\11. CSharp-Advanced-Exam-Preparation-Solution\ClubParty\obj\Debug\netcoreapp2.1\ClubParty.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\11. CSharp-Advanced-Exam-Preparation-Solution\ClubParty\obj\Debug\netcoreapp2.1\ClubParty.pdb

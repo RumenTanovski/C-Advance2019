@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem02Collection\bin\Debug\netcoreapp2.1\Problem02Collection.deps.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem02Collection\bin\Debug\netcoreapp2.1\Problem02Collection.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem02Collection\bin\Debug\netcoreapp2.1\Problem02Collection.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem02Collection\bin\Debug\netcoreapp2.1\Problem02Collection.dll
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem02Collection\bin\Debug\netcoreapp2.1\Problem02Collection.pdb
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem02Collection\obj\Debug\netcoreapp2.1\Problem02Collection.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem02Collection\obj\Debug\netcoreapp2.1\Problem02Collection.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem02Collection\obj\Debug\netcoreapp2.1\Problem02Collection.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem02Collection\obj\Debug\netcoreapp2.1\Problem02Collection.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem02Collection\obj\Debug\netcoreapp2.1\Problem02Collection.dll
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem02Collection\obj\Debug\netcoreapp2.1\Problem02Collection.pdb

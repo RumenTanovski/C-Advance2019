@@ -1,0 +1,12 @@
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem4CopyBinaryFile\bin\Debug\netcoreapp2.1\copyMe.png
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem4CopyBinaryFile\bin\Debug\netcoreapp2.1\Problem4CopyBinaryFile.deps.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem4CopyBinaryFile\bin\Debug\netcoreapp2.1\Problem4CopyBinaryFile.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem4CopyBinaryFile\bin\Debug\netcoreapp2.1\Problem4CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem4CopyBinaryFile\bin\Debug\netcoreapp2.1\Problem4CopyBinaryFile.dll
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem4CopyBinaryFile\bin\Debug\netcoreapp2.1\Problem4CopyBinaryFile.pdb
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem4CopyBinaryFile\obj\Debug\netcoreapp2.1\Problem4CopyBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem4CopyBinaryFile\obj\Debug\netcoreapp2.1\Problem4CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem4CopyBinaryFile\obj\Debug\netcoreapp2.1\Problem4CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem4CopyBinaryFile\obj\Debug\netcoreapp2.1\Problem4CopyBinaryFile.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem4CopyBinaryFile\obj\Debug\netcoreapp2.1\Problem4CopyBinaryFile.dll
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem4CopyBinaryFile\obj\Debug\netcoreapp2.1\Problem4CopyBinaryFile.pdb

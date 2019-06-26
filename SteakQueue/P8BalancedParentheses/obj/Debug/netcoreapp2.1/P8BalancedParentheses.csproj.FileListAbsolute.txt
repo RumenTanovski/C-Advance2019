@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P8BalancedParentheses\bin\Debug\netcoreapp2.1\P8BalancedParentheses.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P8BalancedParentheses\bin\Debug\netcoreapp2.1\P8BalancedParentheses.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P8BalancedParentheses\bin\Debug\netcoreapp2.1\P8BalancedParentheses.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P8BalancedParentheses\bin\Debug\netcoreapp2.1\P8BalancedParentheses.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P8BalancedParentheses\bin\Debug\netcoreapp2.1\P8BalancedParentheses.pdb
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P8BalancedParentheses\obj\Debug\netcoreapp2.1\P8BalancedParentheses.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P8BalancedParentheses\obj\Debug\netcoreapp2.1\P8BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P8BalancedParentheses\obj\Debug\netcoreapp2.1\P8BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P8BalancedParentheses\obj\Debug\netcoreapp2.1\P8BalancedParentheses.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P8BalancedParentheses\obj\Debug\netcoreapp2.1\P8BalancedParentheses.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P8BalancedParentheses\obj\Debug\netcoreapp2.1\P8BalancedParentheses.pdb

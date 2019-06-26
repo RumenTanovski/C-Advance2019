@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\StackSum\bin\Debug\netcoreapp2.1\StackSum.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\StackSum\bin\Debug\netcoreapp2.1\StackSum.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\StackSum\bin\Debug\netcoreapp2.1\StackSum.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\StackSum\bin\Debug\netcoreapp2.1\StackSum.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\StackSum\bin\Debug\netcoreapp2.1\StackSum.pdb
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\StackSum\obj\Debug\netcoreapp2.1\StackSum.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\StackSum\obj\Debug\netcoreapp2.1\StackSum.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\StackSum\obj\Debug\netcoreapp2.1\StackSum.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\StackSum\obj\Debug\netcoreapp2.1\StackSum.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\StackSum\obj\Debug\netcoreapp2.1\StackSum.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\StackSum\obj\Debug\netcoreapp2.1\StackSum.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\SocksNew\bin\Debug\netcoreapp2.1\SocksNew.deps.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\SocksNew\bin\Debug\netcoreapp2.1\SocksNew.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\SocksNew\bin\Debug\netcoreapp2.1\SocksNew.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\SocksNew\bin\Debug\netcoreapp2.1\SocksNew.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\SocksNew\bin\Debug\netcoreapp2.1\SocksNew.pdb
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\SocksNew\obj\Debug\netcoreapp2.1\SocksNew.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\SocksNew\obj\Debug\netcoreapp2.1\SocksNew.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\SocksNew\obj\Debug\netcoreapp2.1\SocksNew.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\SocksNew\obj\Debug\netcoreapp2.1\SocksNew.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\SocksNew\obj\Debug\netcoreapp2.1\SocksNew.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\SocksNew\obj\Debug\netcoreapp2.1\SocksNew.pdb

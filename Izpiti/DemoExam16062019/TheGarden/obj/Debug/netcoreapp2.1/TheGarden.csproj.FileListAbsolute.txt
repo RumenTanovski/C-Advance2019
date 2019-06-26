@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\TheGarden\bin\Debug\netcoreapp2.1\TheGarden.deps.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\TheGarden\bin\Debug\netcoreapp2.1\TheGarden.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\TheGarden\bin\Debug\netcoreapp2.1\TheGarden.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\TheGarden\bin\Debug\netcoreapp2.1\TheGarden.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\TheGarden\bin\Debug\netcoreapp2.1\TheGarden.pdb
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\TheGarden\obj\Debug\netcoreapp2.1\TheGarden.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\TheGarden\obj\Debug\netcoreapp2.1\TheGarden.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\TheGarden\obj\Debug\netcoreapp2.1\TheGarden.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\TheGarden\obj\Debug\netcoreapp2.1\TheGarden.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\TheGarden\obj\Debug\netcoreapp2.1\TheGarden.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\TheGarden\obj\Debug\netcoreapp2.1\TheGarden.pdb

@@ -1,0 +1,12 @@
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Lab1OddLine\bin\Debug\netcoreapp2.1\Lab1OddLine.deps.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Lab1OddLine\bin\Debug\netcoreapp2.1\Lab1OddLine.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Lab1OddLine\bin\Debug\netcoreapp2.1\Lab1OddLine.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Lab1OddLine\bin\Debug\netcoreapp2.1\Lab1OddLine.dll
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Lab1OddLine\bin\Debug\netcoreapp2.1\Lab1OddLine.pdb
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Lab1OddLine\obj\Debug\netcoreapp2.1\Lab1OddLine.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Lab1OddLine\obj\Debug\netcoreapp2.1\Lab1OddLine.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Lab1OddLine\obj\Debug\netcoreapp2.1\Lab1OddLine.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Lab1OddLine\obj\Debug\netcoreapp2.1\Lab1OddLine.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Lab1OddLine\obj\Debug\netcoreapp2.1\Lab1OddLine.dll
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Lab1OddLine\obj\Debug\netcoreapp2.1\Lab1OddLine.pdb
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Lab1OddLine\bin\Debug\netcoreapp2.1\files\input.txt

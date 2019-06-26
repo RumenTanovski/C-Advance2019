@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem05ComparingObjects\bin\Debug\netcoreapp2.1\Problem05ComparingObjects.deps.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem05ComparingObjects\bin\Debug\netcoreapp2.1\Problem05ComparingObjects.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem05ComparingObjects\bin\Debug\netcoreapp2.1\Problem05ComparingObjects.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem05ComparingObjects\bin\Debug\netcoreapp2.1\Problem05ComparingObjects.dll
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem05ComparingObjects\bin\Debug\netcoreapp2.1\Problem05ComparingObjects.pdb
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem05ComparingObjects\obj\Debug\netcoreapp2.1\Problem05ComparingObjects.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem05ComparingObjects\obj\Debug\netcoreapp2.1\Problem05ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem05ComparingObjects\obj\Debug\netcoreapp2.1\Problem05ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem05ComparingObjects\obj\Debug\netcoreapp2.1\Problem05ComparingObjects.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem05ComparingObjects\obj\Debug\netcoreapp2.1\Problem05ComparingObjects.dll
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Problem05ComparingObjects\obj\Debug\netcoreapp2.1\Problem05ComparingObjects.pdb

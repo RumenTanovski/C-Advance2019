@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab2AverageStudentGrades\obj\Debug\netcoreapp2.1\Lab2AverageStudentGrades.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab2AverageStudentGrades\obj\Debug\netcoreapp2.1\Lab2AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab2AverageStudentGrades\obj\Debug\netcoreapp2.1\Lab2AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab2AverageStudentGrades\obj\Debug\netcoreapp2.1\Lab2AverageStudentGrades.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab2AverageStudentGrades\bin\Debug\netcoreapp2.1\Lab2AverageStudentGrades.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab2AverageStudentGrades\bin\Debug\netcoreapp2.1\Lab2AverageStudentGrades.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab2AverageStudentGrades\bin\Debug\netcoreapp2.1\Lab2AverageStudentGrades.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab2AverageStudentGrades\bin\Debug\netcoreapp2.1\Lab2AverageStudentGrades.dll
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab2AverageStudentGrades\bin\Debug\netcoreapp2.1\Lab2AverageStudentGrades.pdb
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab2AverageStudentGrades\obj\Debug\netcoreapp2.1\Lab2AverageStudentGrades.dll
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab2AverageStudentGrades\obj\Debug\netcoreapp2.1\Lab2AverageStudentGrades.pdb

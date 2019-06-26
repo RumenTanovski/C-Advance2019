@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem9PokemonTrainer\bin\Debug\netcoreapp2.1\Problem9PokemonTrainer.deps.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem9PokemonTrainer\bin\Debug\netcoreapp2.1\Problem9PokemonTrainer.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem9PokemonTrainer\bin\Debug\netcoreapp2.1\Problem9PokemonTrainer.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem9PokemonTrainer\bin\Debug\netcoreapp2.1\Problem9PokemonTrainer.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem9PokemonTrainer\bin\Debug\netcoreapp2.1\Problem9PokemonTrainer.pdb
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem9PokemonTrainer\obj\Debug\netcoreapp2.1\Problem9PokemonTrainer.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem9PokemonTrainer\obj\Debug\netcoreapp2.1\Problem9PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem9PokemonTrainer\obj\Debug\netcoreapp2.1\Problem9PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem9PokemonTrainer\obj\Debug\netcoreapp2.1\Problem9PokemonTrainer.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem9PokemonTrainer\obj\Debug\netcoreapp2.1\Problem9PokemonTrainer.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Problem9PokemonTrainer\obj\Debug\netcoreapp2.1\Problem9PokemonTrainer.pdb

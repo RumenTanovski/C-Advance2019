@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab2CarExtension\bin\Debug\netcoreapp2.1\Lab2CarExtension.deps.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab2CarExtension\bin\Debug\netcoreapp2.1\Lab2CarExtension.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab2CarExtension\bin\Debug\netcoreapp2.1\Lab2CarExtension.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab2CarExtension\bin\Debug\netcoreapp2.1\Lab2CarExtension.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab2CarExtension\bin\Debug\netcoreapp2.1\Lab2CarExtension.pdb
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab2CarExtension\obj\Debug\netcoreapp2.1\Lab2CarExtension.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab2CarExtension\obj\Debug\netcoreapp2.1\Lab2CarExtension.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab2CarExtension\obj\Debug\netcoreapp2.1\Lab2CarExtension.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab2CarExtension\obj\Debug\netcoreapp2.1\Lab2CarExtension.dll
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab2CarExtension\obj\Debug\netcoreapp2.1\Lab2CarExtension.pdb
+C:\Users\HP\Documents\2019\C#Advance\DefiningClasses\Lab2CarExtension\obj\Debug\netcoreapp2.1\Lab2CarExtension.csprojResolveAssemblyReference.cache

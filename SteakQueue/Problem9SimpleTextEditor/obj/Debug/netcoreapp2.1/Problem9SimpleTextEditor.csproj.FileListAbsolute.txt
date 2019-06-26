@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem9SimpleTextEditor\bin\Debug\netcoreapp2.1\Problem9SimpleTextEditor.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem9SimpleTextEditor\bin\Debug\netcoreapp2.1\Problem9SimpleTextEditor.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem9SimpleTextEditor\bin\Debug\netcoreapp2.1\Problem9SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem9SimpleTextEditor\bin\Debug\netcoreapp2.1\Problem9SimpleTextEditor.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem9SimpleTextEditor\bin\Debug\netcoreapp2.1\Problem9SimpleTextEditor.pdb
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem9SimpleTextEditor\obj\Debug\netcoreapp2.1\Problem9SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem9SimpleTextEditor\obj\Debug\netcoreapp2.1\Problem9SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem9SimpleTextEditor\obj\Debug\netcoreapp2.1\Problem9SimpleTextEditor.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem9SimpleTextEditor\obj\Debug\netcoreapp2.1\Problem9SimpleTextEditor.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem9SimpleTextEditor\obj\Debug\netcoreapp2.1\Problem9SimpleTextEditor.pdb

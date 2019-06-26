@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\MakeASalad\bin\Debug\netcoreapp2.1\MakeASalad.deps.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\MakeASalad\bin\Debug\netcoreapp2.1\MakeASalad.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\MakeASalad\bin\Debug\netcoreapp2.1\MakeASalad.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\MakeASalad\bin\Debug\netcoreapp2.1\MakeASalad.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\MakeASalad\bin\Debug\netcoreapp2.1\MakeASalad.pdb
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\MakeASalad\obj\Debug\netcoreapp2.1\MakeASalad.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\MakeASalad\obj\Debug\netcoreapp2.1\MakeASalad.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\MakeASalad\obj\Debug\netcoreapp2.1\MakeASalad.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\MakeASalad\obj\Debug\netcoreapp2.1\MakeASalad.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\MakeASalad\obj\Debug\netcoreapp2.1\MakeASalad.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\DemoExam16062019\MakeASalad\obj\Debug\netcoreapp2.1\MakeASalad.pdb

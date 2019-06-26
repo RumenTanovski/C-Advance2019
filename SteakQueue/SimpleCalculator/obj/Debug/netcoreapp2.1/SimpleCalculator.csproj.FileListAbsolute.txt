@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.pdb
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.pdb

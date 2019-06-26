@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab4CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\Lab4CitiesByContinentAndCountry.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab4CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\Lab4CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab4CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\Lab4CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab4CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\Lab4CitiesByContinentAndCountry.dll
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab4CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\Lab4CitiesByContinentAndCountry.pdb
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab4CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\Lab4CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab4CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\Lab4CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab4CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\Lab4CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab4CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\Lab4CitiesByContinentAndCountry.dll
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Lab4CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\Lab4CitiesByContinentAndCountry.pdb

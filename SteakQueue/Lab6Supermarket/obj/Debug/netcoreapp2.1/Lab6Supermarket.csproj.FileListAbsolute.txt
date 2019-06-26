@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Lab6Supermarket\bin\Debug\netcoreapp2.1\Lab6Supermarket.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Lab6Supermarket\bin\Debug\netcoreapp2.1\Lab6Supermarket.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Lab6Supermarket\bin\Debug\netcoreapp2.1\Lab6Supermarket.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Lab6Supermarket\bin\Debug\netcoreapp2.1\Lab6Supermarket.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Lab6Supermarket\bin\Debug\netcoreapp2.1\Lab6Supermarket.pdb
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Lab6Supermarket\obj\Debug\netcoreapp2.1\Lab6Supermarket.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Lab6Supermarket\obj\Debug\netcoreapp2.1\Lab6Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Lab6Supermarket\obj\Debug\netcoreapp2.1\Lab6Supermarket.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Lab6Supermarket\obj\Debug\netcoreapp2.1\Lab6Supermarket.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Lab6Supermarket\obj\Debug\netcoreapp2.1\Lab6Supermarket.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Lab6Supermarket\obj\Debug\netcoreapp2.1\Lab6Supermarket.pdb

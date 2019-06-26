@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem6AutoRepairAndService\bin\Debug\netcoreapp2.1\Problem6AutoRepairAndService.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem6AutoRepairAndService\bin\Debug\netcoreapp2.1\Problem6AutoRepairAndService.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem6AutoRepairAndService\bin\Debug\netcoreapp2.1\Problem6AutoRepairAndService.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem6AutoRepairAndService\bin\Debug\netcoreapp2.1\Problem6AutoRepairAndService.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem6AutoRepairAndService\bin\Debug\netcoreapp2.1\Problem6AutoRepairAndService.pdb
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem6AutoRepairAndService\obj\Debug\netcoreapp2.1\Problem6AutoRepairAndService.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem6AutoRepairAndService\obj\Debug\netcoreapp2.1\Problem6AutoRepairAndService.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem6AutoRepairAndService\obj\Debug\netcoreapp2.1\Problem6AutoRepairAndService.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem6AutoRepairAndService\obj\Debug\netcoreapp2.1\Problem6AutoRepairAndService.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem6AutoRepairAndService\obj\Debug\netcoreapp2.1\Problem6AutoRepairAndService.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem6AutoRepairAndService\obj\Debug\netcoreapp2.1\Problem6AutoRepairAndService.pdb

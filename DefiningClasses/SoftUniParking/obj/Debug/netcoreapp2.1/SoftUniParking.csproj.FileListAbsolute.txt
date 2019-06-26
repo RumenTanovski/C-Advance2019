@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.dll
+C:\Users\HP\Documents\2019\C#Advance\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.pdb
+C:\Users\HP\Documents\2019\C#Advance\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.dll
+C:\Users\HP\Documents\2019\C#Advance\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem6Wardrobe\bin\Debug\netcoreapp2.1\Problem6Wardrobe.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem6Wardrobe\bin\Debug\netcoreapp2.1\Problem6Wardrobe.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem6Wardrobe\bin\Debug\netcoreapp2.1\Problem6Wardrobe.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem6Wardrobe\bin\Debug\netcoreapp2.1\Problem6Wardrobe.dll
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem6Wardrobe\bin\Debug\netcoreapp2.1\Problem6Wardrobe.pdb
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem6Wardrobe\obj\Debug\netcoreapp2.1\Problem6Wardrobe.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem6Wardrobe\obj\Debug\netcoreapp2.1\Problem6Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem6Wardrobe\obj\Debug\netcoreapp2.1\Problem6Wardrobe.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem6Wardrobe\obj\Debug\netcoreapp2.1\Problem6Wardrobe.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem6Wardrobe\obj\Debug\netcoreapp2.1\Problem6Wardrobe.dll
+C:\Users\HP\Documents\2019\C#Advance\SetsAndDictionary\Problem6Wardrobe\obj\Debug\netcoreapp2.1\Problem6Wardrobe.pdb

@@ -1,0 +1,12 @@
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem1EvenLines\bin\Debug\netcoreapp2.1\text.txt
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem1EvenLines\bin\Debug\netcoreapp2.1\Problem1EvenLines.deps.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem1EvenLines\bin\Debug\netcoreapp2.1\Problem1EvenLines.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem1EvenLines\bin\Debug\netcoreapp2.1\Problem1EvenLines.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem1EvenLines\bin\Debug\netcoreapp2.1\Problem1EvenLines.dll
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem1EvenLines\bin\Debug\netcoreapp2.1\Problem1EvenLines.pdb
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem1EvenLines\obj\Debug\netcoreapp2.1\Problem1EvenLines.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem1EvenLines\obj\Debug\netcoreapp2.1\Problem1EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem1EvenLines\obj\Debug\netcoreapp2.1\Problem1EvenLines.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem1EvenLines\obj\Debug\netcoreapp2.1\Problem1EvenLines.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem1EvenLines\obj\Debug\netcoreapp2.1\Problem1EvenLines.dll
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem1EvenLines\obj\Debug\netcoreapp2.1\Problem1EvenLines.pdb

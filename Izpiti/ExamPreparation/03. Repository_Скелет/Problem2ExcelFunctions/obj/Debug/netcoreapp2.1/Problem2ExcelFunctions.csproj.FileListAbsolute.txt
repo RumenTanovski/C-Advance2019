@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\Problem2ExcelFunctions\bin\Debug\netcoreapp2.1\Problem2ExcelFunctions.deps.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\Problem2ExcelFunctions\bin\Debug\netcoreapp2.1\Problem2ExcelFunctions.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\Problem2ExcelFunctions\bin\Debug\netcoreapp2.1\Problem2ExcelFunctions.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\Problem2ExcelFunctions\bin\Debug\netcoreapp2.1\Problem2ExcelFunctions.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\Problem2ExcelFunctions\bin\Debug\netcoreapp2.1\Problem2ExcelFunctions.pdb
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\Problem2ExcelFunctions\obj\Debug\netcoreapp2.1\Problem2ExcelFunctions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\Problem2ExcelFunctions\obj\Debug\netcoreapp2.1\Problem2ExcelFunctions.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\Problem2ExcelFunctions\obj\Debug\netcoreapp2.1\Problem2ExcelFunctions.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\Problem2ExcelFunctions\obj\Debug\netcoreapp2.1\Problem2ExcelFunctions.dll
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\Problem2ExcelFunctions\obj\Debug\netcoreapp2.1\Problem2ExcelFunctions.pdb
+C:\Users\HP\Documents\2019\C#Advance\Izpiti\ExamPreparation\03. Repository_Скелет\Problem2ExcelFunctions\obj\Debug\netcoreapp2.1\Problem2ExcelFunctions.csprojResolveAssemblyReference.cache

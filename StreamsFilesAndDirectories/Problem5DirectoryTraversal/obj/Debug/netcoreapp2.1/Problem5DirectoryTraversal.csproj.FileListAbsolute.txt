@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem5DirectoryTraversal\obj\Debug\netcoreapp2.1\Problem5DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem5DirectoryTraversal\obj\Debug\netcoreapp2.1\Problem5DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem5DirectoryTraversal\obj\Debug\netcoreapp2.1\Problem5DirectoryTraversal.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem5DirectoryTraversal\bin\Debug\netcoreapp2.1\Problem5DirectoryTraversal.deps.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem5DirectoryTraversal\bin\Debug\netcoreapp2.1\Problem5DirectoryTraversal.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem5DirectoryTraversal\bin\Debug\netcoreapp2.1\Problem5DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem5DirectoryTraversal\bin\Debug\netcoreapp2.1\Problem5DirectoryTraversal.dll
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem5DirectoryTraversal\bin\Debug\netcoreapp2.1\Problem5DirectoryTraversal.pdb
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem5DirectoryTraversal\obj\Debug\netcoreapp2.1\Problem5DirectoryTraversal.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem5DirectoryTraversal\obj\Debug\netcoreapp2.1\Problem5DirectoryTraversal.dll
+C:\Users\HP\Documents\2019\C#Advance\StreamsFilesAndDirectories\Problem5DirectoryTraversal\obj\Debug\netcoreapp2.1\Problem5DirectoryTraversal.pdb

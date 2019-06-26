@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem3GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\Problem3GenericSwapMethodStrings.deps.json
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem3GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\Problem3GenericSwapMethodStrings.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem3GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\Problem3GenericSwapMethodStrings.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem3GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\Problem3GenericSwapMethodStrings.dll
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem3GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\Problem3GenericSwapMethodStrings.pdb
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem3GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\Problem3GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem3GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\Problem3GenericSwapMethodStrings.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem3GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\Problem3GenericSwapMethodStrings.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem3GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\Problem3GenericSwapMethodStrings.dll
+C:\Users\HP\Documents\2019\C#Advance\Generics\Problem3GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\Problem3GenericSwapMethodStrings.pdb

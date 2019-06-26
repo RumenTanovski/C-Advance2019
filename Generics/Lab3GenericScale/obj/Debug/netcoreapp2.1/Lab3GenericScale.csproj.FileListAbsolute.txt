@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab3GenericScale\bin\Debug\netcoreapp2.1\Lab3GenericScale.deps.json
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab3GenericScale\bin\Debug\netcoreapp2.1\Lab3GenericScale.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab3GenericScale\bin\Debug\netcoreapp2.1\Lab3GenericScale.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab3GenericScale\bin\Debug\netcoreapp2.1\Lab3GenericScale.dll
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab3GenericScale\bin\Debug\netcoreapp2.1\Lab3GenericScale.pdb
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab3GenericScale\obj\Debug\netcoreapp2.1\Lab3GenericScale.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab3GenericScale\obj\Debug\netcoreapp2.1\Lab3GenericScale.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab3GenericScale\obj\Debug\netcoreapp2.1\Lab3GenericScale.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab3GenericScale\obj\Debug\netcoreapp2.1\Lab3GenericScale.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab3GenericScale\obj\Debug\netcoreapp2.1\Lab3GenericScale.dll
+C:\Users\HP\Documents\2019\C#Advance\Generics\Lab3GenericScale\obj\Debug\netcoreapp2.1\Lab3GenericScale.pdb

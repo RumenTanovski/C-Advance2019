@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P4FastFood\bin\Debug\netcoreapp2.1\P4FastFood.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P4FastFood\bin\Debug\netcoreapp2.1\P4FastFood.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P4FastFood\bin\Debug\netcoreapp2.1\P4FastFood.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P4FastFood\bin\Debug\netcoreapp2.1\P4FastFood.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P4FastFood\bin\Debug\netcoreapp2.1\P4FastFood.pdb
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P4FastFood\obj\Debug\netcoreapp2.1\P4FastFood.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P4FastFood\obj\Debug\netcoreapp2.1\P4FastFood.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P4FastFood\obj\Debug\netcoreapp2.1\P4FastFood.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P4FastFood\obj\Debug\netcoreapp2.1\P4FastFood.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P4FastFood\obj\Debug\netcoreapp2.1\P4FastFood.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\P4FastFood\obj\Debug\netcoreapp2.1\P4FastFood.pdb

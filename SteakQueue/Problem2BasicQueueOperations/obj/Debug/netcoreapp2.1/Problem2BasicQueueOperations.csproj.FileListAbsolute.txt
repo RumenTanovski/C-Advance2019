@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem2BasicQueueOperations\bin\Debug\netcoreapp2.1\Problem2BasicQueueOperations.deps.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem2BasicQueueOperations\bin\Debug\netcoreapp2.1\Problem2BasicQueueOperations.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem2BasicQueueOperations\bin\Debug\netcoreapp2.1\Problem2BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem2BasicQueueOperations\bin\Debug\netcoreapp2.1\Problem2BasicQueueOperations.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem2BasicQueueOperations\bin\Debug\netcoreapp2.1\Problem2BasicQueueOperations.pdb
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem2BasicQueueOperations\obj\Debug\netcoreapp2.1\Problem2BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem2BasicQueueOperations\obj\Debug\netcoreapp2.1\Problem2BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem2BasicQueueOperations\obj\Debug\netcoreapp2.1\Problem2BasicQueueOperations.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem2BasicQueueOperations\obj\Debug\netcoreapp2.1\Problem2BasicQueueOperations.dll
+C:\Users\HP\Documents\2019\C#Advance\SteakQueue\Problem2BasicQueueOperations\obj\Debug\netcoreapp2.1\Problem2BasicQueueOperations.pdb

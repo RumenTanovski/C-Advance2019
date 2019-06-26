@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab1Library\obj\Debug\netcoreapp2.1\Lab1Library.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab1Library\obj\Debug\netcoreapp2.1\Lab1Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab1Library\obj\Debug\netcoreapp2.1\Lab1Library.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab1Library\obj\Debug\netcoreapp2.1\Lab1Library.AssemblyInfo.cs
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab1Library\bin\Debug\netcoreapp2.1\Lab1Library.deps.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab1Library\bin\Debug\netcoreapp2.1\Lab1Library.runtimeconfig.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab1Library\bin\Debug\netcoreapp2.1\Lab1Library.runtimeconfig.dev.json
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab1Library\bin\Debug\netcoreapp2.1\Lab1Library.dll
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab1Library\bin\Debug\netcoreapp2.1\Lab1Library.pdb
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab1Library\obj\Debug\netcoreapp2.1\Lab1Library.dll
+C:\Users\HP\Documents\2019\C#Advance\IteratorsAndComparators\Lab1Library\obj\Debug\netcoreapp2.1\Lab1Library.pdb
